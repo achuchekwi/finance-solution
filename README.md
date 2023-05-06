@@ -6,9 +6,10 @@ This is the source code repository for the HTech Finance Solution. It includes a
 Application
 The Java web application is built using the following technologies:
 
-Java 8
-Apache Maven
-Apache Tomcat
+- Java 8
+- Apache Maven
+- Apache Tomcat
+
 To build the application, run the following command from the root directory of the project:
 
 mvn clean package
